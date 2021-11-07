@@ -1,4 +1,4 @@
-package com.esms.ms;
+package com.cloudapps.developer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

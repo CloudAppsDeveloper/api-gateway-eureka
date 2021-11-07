@@ -1,4 +1,4 @@
-package com.esms.ms;
+package com.cloudapps.developer;
 
 import org.springframework.cloud.gateway.route.RouteLocator;
 import org.springframework.cloud.gateway.route.builder.RouteLocatorBuilder;

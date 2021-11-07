@@ -9,7 +9,7 @@
 		<version>2.5.6</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.esms.ms</groupId>
+	<groupId>com.cloudapps.developer</groupId>
 	<artifactId>api-gateway-eureka</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>api-gateway-eureka</name>
